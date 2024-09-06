@@ -1,5 +1,14 @@
-## Hi there 👋
+## Jisha Ann Abraham 👋
 
+### About me
+I am working as Assistant Professor in the Department of Mathematics at Saintgits College of Engineering.
+
+**Gmail:** jisha.aa@saintgits.org
+## Workshop attended
+- Faculty Development Programme - *Instructional Design For Python :Programming*
+
+### Mathematics
+$x^2+y^2=10$
 <!--
 **Jishaann/Jishaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
